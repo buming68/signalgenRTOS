@@ -1,0 +1,16 @@
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+signalgenrtos\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+signalgenrtos\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+signalgenrtos\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+signalgenrtos\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+signalgenrtos\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+signalgenrtos\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

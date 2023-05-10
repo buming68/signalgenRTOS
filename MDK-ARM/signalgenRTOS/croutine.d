@@ -1,0 +1,14 @@
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+signalgenrtos\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+signalgenrtos\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+signalgenrtos\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+signalgenrtos\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
